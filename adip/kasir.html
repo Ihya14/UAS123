@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+	<title>Aplikasi Kasir Tokoku</title>
+	<link rel="stylesheet" href="css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+	<div class="container" method="get">
+		<div class="tittle">SRC Haliza</div>
+		<br>
+		<br>
+		<div class= "namepon" align="center">
+			<h1>Qtela</h1>
+			<img src="img/Slide1.jpg" width="600" height="300">
+			<h1>Rp. 15.000</h1>
+		</div>
+		<br>
+		<br>
+		<div class= "namepon1" align="center">
+			<h1>Chitato</h1>
+			<img src="img/Slide2.jpg" width="600" height="300">
+			<h1>Rp. 27.000</h1>
+		</div>
+		<br>
+		<br>
+		<div class= "namepon2" align="center">
+			<h1>Piattos</h1>
+			<img src="img/Slide3.jpg" width="600" height="300">
+			<h1>Rp. 9.900</h1>
+		</div>
+		<br>
+		<br>
+		<div class= "namepon3" align="center">
+			<h1>Potabee</h1>
+			<img src="img/Slide4.jpg" width="600" height="300">
+			<h1>Rp. 9.500</h1>
+		</div>
+		<br>
+		<br>
+		<div class= "namepon4" align="center">
+			<h1>Kusuka</h1>
+			<img src="img/Slide5.jpg" width="600" height="300">
+			<h1>Rp. 14.500</h1>
+		</div>
+		<br>
+		<br>
+		<div class= "namepon5" align="center">
+			<h1>Tictac</h1>
+			<img src="img/Slide6.jpg" width="600" height="300">
+			<h1>Rp. 6.500</h1>
+		</div>
+		<br>
+		<br>
+		<form action="proses.php">
+			<div class="user-details">
+				<div class="input-box">
+					<span class="details">Pilih Item Anda</span>
+					<select class="drop" name="namabarang">
+						<option>Qtela</option>
+						<option>Chitato</option>
+						<option>Piattos</option>
+						<option>Potabee</option>
+						<option>Kusuka</option>
+						<option>Tictac</option>
+					</select>
+
+				</div>
+				<div class="input-box">
+					<span class="details">Jumlah</span>
+					<input name="jumlah" size="1" placeholder="Masukan jumlah barang" required>
+				</div>
+			</div>
+			<div class="button">
+				<input type="submit" value="MASUKKAN KE KERANJANG">
+			</div>
+
+			<div class="button">
+				<a href="checkout.php">
+					<input type="button" value="CHECKOUT">
+				</a>
+			</div>
+			<div class="button">
+				<a href="reset.php">
+					<input type="button" value="RESET">
+				</a>
+			</div>
+		</form>
+	</div>
+</body>
+</html>

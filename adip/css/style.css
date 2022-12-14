@@ -1,0 +1,176 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'calibri',sans-serif;
+
+}
+
+body{
+	display: all;
+	height: 100vh;
+	justify-content: center;
+	align-items: center;
+	padding: 10px;
+	background: linear-gradient(135deg, #ff0000, #ff9d00);
+}
+
+.container{
+	max-width: 700px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 100%;
+	background: #fff;
+	padding: 25px 30px;
+	border-radius: 5px;
+}
+
+.container .tittle{
+	text-align: center;
+	color: #9b59b6;
+	font-size: 25px;
+	font-weight: 500;
+	position: relative;
+	border : 3px;
+	border-style: solid;
+	border-color: #9b59b6;
+	border-radius: 5px
+}
+
+.container .namepon{
+	text-align: center;
+	color: orange;
+	font-size: 25px;
+	font-weight: 500;
+	position: relative;
+	border : 3px;
+	border-style: solid;
+	border-color: orange;
+	border-radius: 5px
+}
+
+.container .namepon1{
+	text-align: center;
+	color: green;
+	font-size: 25px;
+	font-weight: 500;
+	position: relative;
+	border : 3px;
+	border-style: solid;
+	border-color: green;
+	border-radius: 5px
+}
+
+.container .namepon2{
+	text-align: center;
+	color: blue;
+	font-size: 25px;
+	font-weight: 500;
+	position: relative;
+	border : 3px;
+	border-style: solid;
+	border-color: blue;
+	border-radius: 5px
+}
+
+.container .namepon3{
+	text-align: center;
+	color: yellow;
+	font-size: 25px;
+	font-weight: 500;
+	position: relative;
+	border : 3px;
+	border-style: solid;
+	border-color: yellow;
+	border-radius: 5px
+}
+
+.container .namepon4{
+	text-align: center;
+	color: orange;
+	font-size: 25px;
+	font-weight: 500;
+	position: relative;
+	border : 3px;
+	border-style: solid;
+	border-color: orange;
+	border-radius: 5px
+}
+
+.container .namepon5{
+	text-align: center;
+	color: black;
+	font-size: 25px;
+	font-weight: 500;
+	position: relative;
+	border : 3px;
+	border-style: solid;
+	border-color: black;
+	border-radius: 5px
+}
+
+.container form .user-details{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+form .user-details .input-box{
+	margin: 10px 0 1px 0;
+	width: calc(100% / 2 - 20px);
+}
+
+.user-details .input-box .details{
+	display: block;
+	font-weight: 500;
+	margin-bottom: 5px;
+}
+
+.user-details .input-box .base{
+	height: 30px;
+	width: 100%;
+	border-radius: 5px;
+	border:2px solid #9b59b6;
+}
+
+.user-details .input-box .drop{
+	height: 45px;
+	width: 100%;
+	outline: 1px;
+	border-radius: 5px;
+	border:1px solid #ccc;
+	padding-left: 15px;
+	font-size: 16px;
+}
+
+.user-details .input-box input{
+	height: 45px;
+	width: 100%;
+	outline: 1px;
+	border-radius: 5px;
+	border:1px solid #ccc;
+	padding-left: 15px;
+	font-size: 16px;
+}
+
+form input[type="radio"]{
+	display: none;
+}
+
+form .button{
+	height: 45px;
+	margin: 45px 0;
+}
+
+form .button input{
+	height: 100%;
+	width: 100%;
+	outline: none;
+	color: #fff;
+	border: none;
+	font-size: 18px;
+	font-weight: 500;
+	border-radius: 5px;
+	letter-spacing: 1px;
+	background: linear-gradient(135deg, #ff0000, #000000);
+}
