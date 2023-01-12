@@ -1,0 +1,15 @@
+
+[{shop_url}] 
+
+Hai {nama depan} {nama belakang}, 
+
+Anda telah menerima pesan baru terkait pesanan dengan referensi
+{order_name}.
+
+PELANGGAN: {firstname} {lastname} ({email})
+
+{message} 		 
+
+{shop_name} [{shop_url}] diberdayakan oleh
+thirty bees & trade; [https://thirtybees.com/] 
+

@@ -1,0 +1,16 @@
+
+[{shop_url}] 
+
+Hai {nama depan} {nama belakang}, 
+
+Kami telah menghasilkan slip kredit atas nama Anda untuk pesanan
+dengan referensi {order_name} . 
+
+Anda dapat meninjau slip kredit ini dan mengunduh faktur dari
+bagian "kredit saya tergelincir"
+[{history_url}] di akun Anda dengan mengeklik
+"akun saya " [{my_account_url}] di toko kami. 
+
+{shop_name} [{shop_url}] diberdayakan oleh
+thirty bees & trade; [https://thirtybees.com/] 
+

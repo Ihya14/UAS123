@@ -1,0 +1,70 @@
+
+[{shop_url}] 
+
+Hai {nama depan} {nama belakang},
+
+Terima kasih telah berbelanja dengan {shop_name}! 
+
+MEMESAN: {order_name} Ditempatkan di {date}
+
+PEMBAYARAN: {payment} 		 
+
+REFERENCE
+
+PRODUCT
+
+UNIT PRICE
+
+QUANTITY
+
+TOTAL PRICE
+
+{products_txt} 
+
+{discounts} 
+
+PRODUCTS 
+
+{total_products} 
+
+DISCOUNTS 
+
+{total_discounts} 
+
+PEMBUNGKUS KADO 
+
+{total_wrapping} 
+
+SHIPPING 
+
+{total_shipping} 
+
+TOTAL PAJAK DIBAYAR 
+
+{total_tax_paid} 
+
+TOTAL PAID 
+
+{total_paid} 
+
+PEMBAWA: {carrier}
+
+PEMBAYARAN: {payment} 		 
+
+{delivery_block_txt} 
+
+{invoice_block_txt} 
+
+Anda dapat meninjau pesanan Anda dan mengunduh faktur Anda dari
+bagian "Riwayat pesanan" [{history_url}] akun
+pelanggan Anda dengan mengeklik "Akun saya"
+[{my_account_url}] di toko kami. 
+
+Jika memiliki akun tamu, Anda dapat mengikuti pesanan melalui
+bagian "Pelacakan Tamu"
+[{guest_tracking_url}?id_order={order_name}]
+di toko kami. 
+
+{shop_name} [{shop_url}] diberdayakan oleh
+thirty bees & trade; [https://thirtybees.com/] 
+

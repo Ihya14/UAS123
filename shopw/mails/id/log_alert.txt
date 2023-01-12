@@ -1,0 +1,14 @@
+
+[{shop_url}] 
+
+Hai {nama depan} {nama belakang}, 
+
+PERINGATAN: Anda telah menerima lansiran log baru di Back Office
+Anda.
+
+Anda dapat memeriksanya di "ALAT" & GT; BAGIAN "LOG" di Back Office
+Anda. 		 
+
+{shop_name} [{shop_url}] diberdayakan oleh
+thirty bees & trade; [https://thirtybees.com/] 
+

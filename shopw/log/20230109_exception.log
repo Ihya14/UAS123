@@ -1,0 +1,1 @@
+*ERROR* 	2023/01/09 - 21:44:11: SmartyException: Invalid compiled template for 'D:\xampp\htdocs\shopw\admin396giafjq\themes\default\template\controllers\modules\page_header_toolbar.tpl' at line 116 in file vendor/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php

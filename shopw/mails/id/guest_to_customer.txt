@@ -1,0 +1,19 @@
+
+[{shop_url}] 
+
+Hai {nama depan} {nama belakang}, 
+
+Akun tamu Anda untuk {shop_name} telah diubah menjadi akun pelanggan.
+
+ALAMAT EMAIL: {email}
+
+KATA SANDI: {passwd} 		 
+
+Harap berhati-hati saat membagikan detail login ini dengan orang
+lain. 
+
+Anda dapat mengakses akun pelanggan Anda di toko kami: {shop_url} 
+
+{shop_name} [{shop_url}] diberdayakan oleh
+thirty bees & trade; [https://thirtybees.com/] 
+

@@ -1,0 +1,26 @@
+
+[{shop_url}] 
+
+Hai {nama depan} {nama belakang},
+
+Terima kasih atas pesanan Anda dengan referensi {order_name} dari
+{shop_name} 
+
+Anda memiliki {nbproducts} produk yang sekarang tersedia untuk
+diunduh menggunakan tautan berikut:
+
+{virtualproducts} 		 
+
+Anda dapat meninjau pesanan Anda dan mengunduh faktur Anda dari
+bagian "Riwayat pesanan" [{history_url}] akun
+pelanggan Anda dengan mengeklik "Akun saya"
+[{my_account_url}] di toko kami. 
+
+Jika memiliki akun tamu, Anda dapat mengikuti pesanan melalui
+bagian "Pelacakan Tamu"
+[{guest_tracking_url}?id_order={order_name}]
+di toko kami. 
+
+{shop_name} [{shop_url}] diberdayakan oleh
+thirty bees & trade; [https://thirtybees.com/] 
+

@@ -1,0 +1,14 @@
+
+[{shop_url}] 
+
+Hai {nama depan} {nama belakang}, 
+
+{employee} ingin meneruskan diskusi ini kepada Anda. 
+
+SEJARAH DISKUSI: {messages}
+
+{employee} ditambahkan " {comment} " 		 
+
+{shop_name} [{shop_url}] diberdayakan oleh
+thirty bees & trade; [https://thirtybees.com/] 
+
